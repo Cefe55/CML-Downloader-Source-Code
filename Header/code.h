@@ -1,0 +1,10 @@
+using namespace std;
+string let1;
+string let2;
+string let3;
+string let4;
+string harf1;
+string harf2;
+string harf3;
+string harf4;
+string givencode;
